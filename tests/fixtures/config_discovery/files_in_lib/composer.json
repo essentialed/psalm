@@ -1,8 +1,0 @@
-{
-    "name": "dummy/lib",
-    "autoload": {
-        "psr-4": {
-            "Foo\\Bar": "lib"
-        }
-    }
-}
